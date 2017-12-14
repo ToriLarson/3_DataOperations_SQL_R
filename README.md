@@ -1,9 +1,9 @@
-# Descriptive Title for your Project (Repo should have a similar name)
+# Comparing and Analyzing Survey Data in SQL & R
 
-**Author:** [Author Name Here]
+**Author:** Victoria Larson
 
 __*Project Description:*__
-*A description of the project and what it is intended to do*
+*In this project I would like to work with both SQL & R. I will be taking Honolulu Authority for Rapid Transportation Survey Data and would like to analyze and manipulate the data in both SQL & R. This is a project designed to analyze the usefulness of both programs as well as gaining a better understanding of their similarities and differences.*
 
 *A description of the files attached, and any instructions for someone downloading it to use*
 
