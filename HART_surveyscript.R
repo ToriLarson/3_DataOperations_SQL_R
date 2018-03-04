@@ -1,4 +1,4 @@
-## this is my first r script - I am learning how to use scripts to make my life easier
+#This is my First R Script
 
 # set path 
 setwd("/Users/victorialarson/Desktop/Dev_League/Repos/Sprint3")

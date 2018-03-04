@@ -1,10 +1,23 @@
-# Comparing and Analyzing Survey Data in SQL & R
+# Analyzing Survey Data in R Studio
 
 **Author:** Victoria Larson
 
 __*Project Description:*__
-*In this project I would like to work with both SQL & R. I will be taking Honolulu Authority for Rapid Transportation Survey Data and would like to analyze and manipulate the data in both SQL & R. This is a project designed to analyze the usefulness of both programs as well as gaining a better understanding of their similarities and differences.*
+*In this project I will be taking Honolulu Authority for Rapid Transportation Survey Data and would like to analyze and manipulate the data in R. This project is designed to gain a better understanding of R so I may use it in future projects.*
 
-*A description of the files attached, and any instructions for someone downloading it to use*
+See HART_surveyscript.R for my work
 
-*Here is a description of other things I hope to do with this project for future reference*
+Here are some questions I had about my data while working in R.
+
+**Create a Histogram showing the number of adults per household**
+
+![HouseholdAdults](Household_Adults.jpeg)
+
+**Q: How many females took the survey?**
+
+*Answer:* 13974
+
+
+**Q: How many males took the survey?**
+
+*Answer:* 12272
