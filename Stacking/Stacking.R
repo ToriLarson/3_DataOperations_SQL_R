@@ -7,7 +7,7 @@ testscores3 <- c(54.3, 73.5, 79.2, 92.4, 99.1)
 Qtr1 <- data.frame(testscores1, testscores2, testscores3)
 
 # Name the rows
-row.names(Qtr1) <- c("Ross", "Rachel", "Chandler", "Monica", "Joey")
+row.names(Qtr1) <- c("James", "Marissa", "Ben", "Taylor", "Natalie")
 
 # tried plotting it unstacked 
 plot(Qtr1)
