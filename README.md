@@ -21,3 +21,5 @@ Here are some questions I had about my data while working in R.
 **Q: How many males took the survey?**
 
 *Answer:* 12272
+
+Follow this [link](https://github.com/ToriLarson/3_DataOperations_in_R/tree/master/Stacking) to see my mini project on Stacking!
